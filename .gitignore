@@ -1,0 +1,26 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.userprefs
+
+# Build files
+Build/
+
+# macOS
+.DS_Store
+
+# Unreal generated files
+*.opensdf
+*.sdf
+*.VC.db
+
+# Logs
+*.log
